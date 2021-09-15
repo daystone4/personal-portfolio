@@ -1,0 +1,66 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__nuxt,
+#__layout {
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: $dark;
+  color: $white;
+  font-family: 'Azeret Mono', monospace;
+  //   font-family: 'Ubuntu', sans-serif;
+}
+
+// Headings
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+// Paragraphs
+
+p {
+  margin: 0;
+}
+
+// Lists
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+// Anchor Tags
+
+a {
+  color: $white;
+
+  &:hover {
+    color: $accent;
+  }
+}
+
+// Container
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+// Images
+
+img {
+  display: block;
+  max-width: 100%;
+}
