@@ -33,6 +33,7 @@ export default {
       margin: 0 1rem;
       transition: all 0.2s ease;
 
+
       &:hover {
         stroke: $accent;
         transform: translateY(-2px);

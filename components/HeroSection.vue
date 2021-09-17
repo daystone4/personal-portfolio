@@ -4,7 +4,7 @@
             <h1 class="hero__title">David Stone</h1>
             <h1 class="hero__subtitle">Software Developer</h1>
             <p class="hero__text">
-                You've found my tiny section of the internet. I'm currently making the transition from the world of college sports into the tech space as a developer.
+                You've found my tiny section on the internet. I'm currently making the transition from the world of college sports into the tech space as a developer. View a few of my projects below.
             </p>
         </section>
     </main>
@@ -18,11 +18,11 @@ export default {
 
 <style lang="scss" scoped>
 .hero {
-    margin: 2rem 0; 
+    margin: 3rem 0 0; 
     text-align: center; 
 
     & > * {
-        margin-bottom: 0.5rem;
+        margin-bottom: 1rem;
     }
 
 

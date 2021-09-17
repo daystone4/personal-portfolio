@@ -49,7 +49,7 @@ data() {
 
 <style lang="scss" scoped>
 .projects {
-    margin: 6rem 0 0;
+    margin: 3rem 0 0;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1.5em;
