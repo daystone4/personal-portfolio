@@ -4,7 +4,7 @@
             <h1 class="hero__title">David Stone</h1>
             <h1 class="hero__subtitle">Software Developer</h1>
             <p class="hero__text">
-                You've found my tiny section on the internet. I'm currently making the transition from the world of college sports into the tech space as a developer. View a few of my projects below.
+                You've found my tiny section on the internet. I'm currently making the transition from the world of college sports into the tech space as a project manager. View a few of my personal projects below.
             </p>
         </section>
     </main>
